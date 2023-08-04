@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a5cb246.css",
+    "main.js": "/static/js/main.8c350759.js",
+    "static/media/prime.jpg": "/static/media/prime.e5942a2f1059b48f507e.jpg",
+    "static/media/d.jpg": "/static/media/d.c5a5c57dab66c3bb58cd.jpg",
+    "static/media/offer.jpg": "/static/media/offer.3d5a6bcf00393cd6c45f.jpg",
+    "static/media/shoesA.jpg": "/static/media/shoesA.14e2d25739e5a52468fe.jpg",
+    "static/media/smartwatch.jpg": "/static/media/smartwatch.b297f593c350257b1923.jpg",
+    "static/media/playwin.jpg": "/static/media/playwin.eb5180e7ca7a64eb3229.jpg",
+    "static/media/scratchcard.jpg": "/static/media/scratchcard.fc730ffbbc690668d383.jpg",
+    "static/media/addimage.jpg": "/static/media/addimage.a4c6e337e92758e6a742.jpg",
+    "static/media/audio.jpg": "/static/media/audio.39994a4c521bef3f2f1f.jpg",
+    "static/media/shopCollection.jpg": "/static/media/shopCollection.8fc71d5a107314509921.jpg",
+    "static/media/prime-logo.svg": "/static/media/prime-logo.237483a4e46fb1b098773302be52fb3e.svg",
+    "static/media/shoes.webp": "/static/media/shoes.070f52c4881e46113a5f.webp",
+    "index.html": "/index.html",
+    "static/media/Flag_of_India.svg": "/static/media/Flag_of_India.b4edf60f81d02fff02e4826aebedca3f.svg",
+    "main.1a5cb246.css.map": "/static/css/main.1a5cb246.css.map",
+    "main.8c350759.js.map": "/static/js/main.8c350759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5cb246.css",
+    "static/js/main.8c350759.js"
+  ]
+}
