@@ -9,7 +9,7 @@ const path = require('path');
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieparser());
-// app.use(express.static(path.join(__dirname, "../client/build")));
+app.use(express.static(path.join(__dirname, "../client/build")));
 app.use(route);
 // app.get("*", function (req, res) {
 //   res.sendFile(
