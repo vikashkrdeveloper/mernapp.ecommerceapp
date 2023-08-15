@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a5cb246.css",
-    "main.js": "/static/js/main.8c350759.js",
+    "main.css": "/static/css/main.fefe6426.css",
+    "main.js": "/static/js/main.5f7505f6.js",
     "static/media/prime.jpg": "/static/media/prime.e5942a2f1059b48f507e.jpg",
     "static/media/d.jpg": "/static/media/d.c5a5c57dab66c3bb58cd.jpg",
     "static/media/offer.jpg": "/static/media/offer.3d5a6bcf00393cd6c45f.jpg",
@@ -16,11 +16,11 @@
     "static/media/shoes.webp": "/static/media/shoes.070f52c4881e46113a5f.webp",
     "index.html": "/index.html",
     "static/media/Flag_of_India.svg": "/static/media/Flag_of_India.b4edf60f81d02fff02e4826aebedca3f.svg",
-    "main.1a5cb246.css.map": "/static/css/main.1a5cb246.css.map",
-    "main.8c350759.js.map": "/static/js/main.8c350759.js.map"
+    "main.fefe6426.css.map": "/static/css/main.fefe6426.css.map",
+    "main.5f7505f6.js.map": "/static/js/main.5f7505f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a5cb246.css",
-    "static/js/main.8c350759.js"
+    "static/css/main.fefe6426.css",
+    "static/js/main.5f7505f6.js"
   ]
 }
